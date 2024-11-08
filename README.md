@@ -21,8 +21,7 @@ I'm 2nd year Btech Student<br>I'm currently learning WebDev and C.<br>I love lis
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=aritraduttagupta&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+![OpBento](https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2Faritraduttaguptaa1712.png?alt=media)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=aritraduttagupta&icon=8&color=4)](https://visitcount.itsvg.in)
